@@ -1,0 +1,11 @@
+ActualLabels = -1
+
+tinder_july05.com -> -1 -> 0.94, U ->0.06
+getharvest_Jul09 -> 7 -> 0.56, U -> 0.44
+mheginc.com_Jul5 -> 7 -> 0.53, U -> 0.47
+denardi_Jul9 -> 7 -> 0.11, 4 -> 0.11, 3 -> 0.1, U -> 0.68
+northwave.nl_Jul30 -> 3 -> 0.49, U -> 0.51
+icelandairlabs.com_Aug2 -> U -> 0.26, 4 -> 0.74
+nspk.ru_Jul09 -> 7 -> 0.7, U -> 0.3
+getprompt.ai_Aug1 -> 7 -> 0.52, U -> 48
+uberinternal.com_Aug1 -> 7 -> 0.47, U -> 0.53
